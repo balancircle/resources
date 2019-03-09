@@ -54,4 +54,3 @@ set showmode   "设置在命令行界面最下面显示当前模式
 "setlocal foldlevel=1   设置折叠层数为
 "set foldclose=all  设置为自动关闭折叠
 
-
